@@ -14,11 +14,14 @@ import jakarta.persistence.Table;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
-public class Employee {
-    @EmbeddedId
-    private EmployeePKId employeePKId;
-	private String name;
+@IdClass(EmployeePKId.class)
+public class Employee2 {
+   @Id
+	private int employeeId;
+   @Id
+   private int deptId;
+    
+    private String name;
     private String email;
     private String phone;
 }
