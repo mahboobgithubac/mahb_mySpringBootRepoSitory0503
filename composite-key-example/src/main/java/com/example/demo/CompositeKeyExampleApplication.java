@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CompositeKeyExampleApplication {
 
+	
+	
 	public static void main(String[] args) {
 		SpringApplication.run(CompositeKeyExampleApplication.class, args);
 	}
