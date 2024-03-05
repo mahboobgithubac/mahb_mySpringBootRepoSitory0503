@@ -1,0 +1,123 @@
+[
+    {
+        "employeePKId": {
+            "employeeId": 0,
+            "deptId": 0
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 101,
+            "deptId": 11
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 202,
+            "deptId": 44
+        },
+        "name": "DEF",
+        "email": "def@gmail.com",
+        "phone": "222"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 202,
+            "deptId": 66
+        },
+        "name": "DEF",
+        "email": "def@gmail.com",
+        "phone": "222"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 101,
+            "deptId": 111
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 102,
+            "deptId": 111
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    }
+]
+
+
+[
+    {
+        "employeePKId": {
+            "employeeId": 0,
+            "deptId": 0
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 101,
+            "deptId": 11
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 202,
+            "deptId": 44
+        },
+        "name": "DEF",
+        "email": "def@gmail.com",
+        "phone": "222"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 202,
+            "deptId": 66
+        },
+        "name": "DEF",
+        "email": "def@gmail.com",
+        "phone": "222"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 203,
+            "deptId": 66
+        },
+        "name": "GHI",
+        "email": "ghi@gmail.com",
+        "phone": "2223"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 101,
+            "deptId": 111
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    },
+    {
+        "employeePKId": {
+            "employeeId": 102,
+            "deptId": 111
+        },
+        "name": "ABC",
+        "email": "abc@gmail.com",
+        "phone": "1111"
+    }
+]
